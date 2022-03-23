@@ -1,3 +1,4 @@
+React practise (local storage,array reducer, utilities(how to call function from outside in the component))
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
